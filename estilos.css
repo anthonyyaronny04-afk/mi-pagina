@@ -1,0 +1,20 @@
+body {
+  background-color: rgb(180, 243, 180);
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+h1 {
+  color: darkgreen;
+}
+
+.texto {
+  color: black;
+  font-size: 18px;
+}
+
+.numeros {
+  color: blue;
+  font-size: 20px;
+  font-weight: bold;
+}

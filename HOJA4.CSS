@@ -1,0 +1,22 @@
+body {
+  background-color: rgb(176, 187, 221);
+  font-family: Arial, sans-serif;
+  margin: 0%;
+  padding: 0%;
+  text-align: center;
+}
+
+h1 {
+  color: rgb(0, 62, 100);
+}
+
+.texto {
+  color: rgb(36, 15, 15);
+  font-size: 25px;
+}
+
+.numeros {
+  color: rgb(202, 202, 230);
+  font-size: 25px;
+  font-weight: bold;
+}
