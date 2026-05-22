@@ -1,0 +1,21 @@
+body {
+  background-color: rgb(197, 198, 244);
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+h1 {
+  color: rgb(215, 240, 215);
+  text-shadow: 2px 2px 4px color(srgb red green blue);
+}
+
+.texto {
+  color: rgb(25, 12, 46);
+  font-size: 25px;
+}
+
+.numeros {
+  color: rgb(119, 119, 196);
+  font-size: 25px;
+  font-weight: bold;
+}
